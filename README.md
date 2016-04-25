@@ -18,7 +18,6 @@ FAQ:
 	    1. <input-filename>
 	    2. --verbose <input-filename>
 	d.	The program should run successfully and display the output on the terminal (standard output).
-——————————————————————————————————————
 
 2. What is verbose mode?
     - When verbose mode is activated, it will display all of the cycles involved
