@@ -1,5 +1,4 @@
-#README - 11/19/2015
-———————————
+# README - 11/19/2015
 
 Resource Managers:
     FIFO (Optimistic) and Banker's
