@@ -26,7 +26,6 @@ FAQ:
     It indicates the Timer, Task being processed, Activity of task, when a request can be granted
     and when a task is being terminated.
 
-——————————————————————————————————————
 Thank you for using this Resource Manager Simulator.
 
     Author: Ricardo Guntur (ricardo.guntur@nyu.edu)
